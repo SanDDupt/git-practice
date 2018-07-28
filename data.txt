@@ -1,0 +1,3 @@
+Name : Sandra
+Age : 43
+Favorite color : pink
